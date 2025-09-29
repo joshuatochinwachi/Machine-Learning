@@ -5,3 +5,5 @@ seaborn
 jupyter
 matplotlib
 plotly
+missingno
+imbalanced-learn
