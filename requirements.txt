@@ -9,3 +9,4 @@ missingno
 imbalanced-learn
 dune-client
 python-dotenv
+joblib
